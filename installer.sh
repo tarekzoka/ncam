@@ -2,7 +2,7 @@
 #!/bin/sh
 
 # 
-# SCRIPT : DOWNLOAD AND INSTALL EMU NCAM #
+# SCRIPT : DOWNLOAD AND INSTALL EMU nacam #
 # ======================================================================================
 # Command: wget https://raw.githubusercontent.com/tarekzoka/ncam/main/installer.sh -O - | /bin/sh #
 # ======================================================================================
