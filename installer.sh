@@ -33,9 +33,9 @@ echo ''
 echo '************************************************************'
 echo '**                         STARTED                        **'
 echo '************************************************************'
-#            # WRITE Script By Biko_73 #                
+#            # WRITE Script By 0000               
 # AND MODIFY Script To Work  Emu Ncam                                     
-             # BY EMIL_NABIL #
+             # BY TREMM#
 echo "************************************************************"
 echo ''
 
