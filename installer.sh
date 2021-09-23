@@ -35,7 +35,7 @@ echo '**                         STARTED                        **'
 echo '************************************************************'
 #            # WRITE Script By 0000               
 # AND MODIFY Script To Work  Emu Ncam                                     
-             # BY TREMM#
+             # BY TAREK_TT#
 echo "************************************************************"
 echo ''
 
