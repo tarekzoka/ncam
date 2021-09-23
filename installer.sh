@@ -4,7 +4,7 @@
 # 
 # SCRIPT : DOWNLOAD AND INSTALL EMU NCAM #
 # ======================================================================================
-# Command: wget https://raw.githubusercontent.com/emilnabil/ncam/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/tarekzoka/ncam/main/installer.sh -O - | /bin/sh #
 # ======================================================================================
 
 # MY CONFIG SCRIPT #
@@ -19,7 +19,7 @@ MY_DEB="ncam_11.90_all.deb"
 ######################################################################################
 
 # Decide : which package ?
-MY_MAIN_URL="https://raw.githubusercontent.com/emilnabil/"
+MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/"
 if which dpkg > /dev/null 2>&1; then
 	MY_FILE=$MY_DEB
 	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
