@@ -10,7 +10,7 @@
 # MY CONFIG SCRIPT #
 ###########################################
 PACKAGE_DIR='ncam/main'
-MY_IPK="tarekzoka/ncam/raw/main/ncam_11.90_all.ipkk"
+MY_IPK="tarekzoka/ncam/raw/main/ncam_11.90_all.ipk"
 MY_DEB="ncam_11.90_all.deb"
 
 
@@ -19,7 +19,7 @@ MY_DEB="ncam_11.90_all.deb"
 ######################################################################################
 
 # Decide : which package ?
-MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/"
+MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/ncam/main/ncam_11.90_all.ipk"
 if which dpkg > /dev/null 2>&1; then
 	MY_FILE=$MY_DEB
 	MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_DEB
