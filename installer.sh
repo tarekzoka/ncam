@@ -10,7 +10,7 @@
 # MY CONFIG SCRIPT #
 ###########################################
 PACKAGE_DIR='ncam/main'
-MY_IPK="ncam_11.90_all.ipk"
+MY_IPK="tarekzoka/ncam/raw/main/ncam_11.90_all.ipkk"
 MY_DEB="ncam_11.90_all.deb"
 
 
@@ -85,4 +85,3 @@ else
 	exit 1
 fi
 
-# 
