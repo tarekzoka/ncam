@@ -9,7 +9,7 @@
 
 # MY CONFIG SCRIPT #
 ###########################################
-PACKAGE_DIR='ncam/main'
+PACKAGE_DIR='https://raw.githubusercontent.com/tarekzoka/ncam/main/ncam_11.90_all.ipk'
 MY_IPK="tarekzoka/ncam/raw/main/ncam_11.90_all.ipk"
 MY_DEB="ncam_11.90_all.deb"
 
